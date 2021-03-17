@@ -1,0 +1,4 @@
+1,padmavat,bolly,hindi,2021-03-13,deepika;ranveer;vaibhav;,4.2,4.0
+2,hny,holly,hindi,2021-03-11,deepika;shahrukh;sonu;,4.0,4.0
+3,hippi,bolly,eng,2021-03-10,deepika;gippi;nita;,3.2,3.0
+7,kash,bolly,hindi,2020-03-10,rani;shahrukh;,2.5,5.0

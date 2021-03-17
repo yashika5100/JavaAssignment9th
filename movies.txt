@@ -1,0 +1,3 @@
+1,padmavat,bolly,hindi,2021-03-13,deepika;ranveer;vaibhav,4.2,4
+2,hny,holly,hindi,2021-03-11,deepika;shahrukh;sonu,4,4
+3,hippi,bolly,eng,2021-03-10,deepika;gippi;nita,3.2,3
